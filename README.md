@@ -38,13 +38,13 @@ Tempo de Execução
 | Busca Sequêncial | O(n) |
 | Busca Sequêncial Recursiva | O(n) |
 | Busca Ordenada | O(n) |
-| Busca Binária | O(logn) |
-| Busca Binária Recursiva | O(logn) |
+| Busca Binária | O(log n) |
+| Busca Binária Recursiva | O(log n) |
 
 Execução do Programa (Teste)
 ----------------------------
-![grab-landing-page](https://j.gifs.com/mQmk2A.gif)
+![grab-landing-page](https://j.gifs.com/OynL5r.gif)
 
 Execução do Programa (Principal)
 --------------------------------
-![grab-landing-page](https://j.gifs.com/L8OG0p.gif)
+![grab-landing-page](https://j.gifs.com/ZVBvm5.gif)

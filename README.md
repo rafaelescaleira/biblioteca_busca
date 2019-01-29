@@ -1,5 +1,9 @@
 Biblioteca Genérica de Busca
 ============================
+
+![Build](https://img.shields.io/gitlab/pipeline/rafaelescaleira/busca.svg)
+![Size](https://img.shields.io/github/repo-size/rafaelescaleira/busca.svg)
+
 Esse repositório possui diversas funções de busca implementadas em linguagem C.
 Segue a lista das funções :
 
